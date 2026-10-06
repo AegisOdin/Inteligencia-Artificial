@@ -1,0 +1,6 @@
+pygame>=2.6,<3
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+opencv-contrib-python>=4.10,<5
+numpy>=2,<3
+Pillow>=11,<13
