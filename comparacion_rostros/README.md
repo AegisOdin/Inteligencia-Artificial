@@ -9,7 +9,7 @@
 Las tres alternativas reciben los mismos recortes normalizados. Entrenar produce un modelo XML y un JSON de nombres; **guardar un archivo no mide reconocimiento**. Fuente técnica: [tutorial de OpenCV](https://docs.opencv.org/4.12.0/da/d60/tutorial_face_main.html).
 
 ## Uso
-`python eigenfaces_fisherfaces_LBPH/eigenfaces.py dataset --salida modelos/eigenfaces.xml`.
+`python comparacion_rostros/eigenfaces.py dataset --salida modelos/eigenfaces.xml`.
 Sustituir el ejecutable por `fisherfaces.py` o `lbph.py` y cambiar la salida.
 
 El dataset necesita una carpeta por identidad. Se rechazan conjuntos vacíos y configuraciones insuficientes de Fisherfaces. Para evitar perder resultados, no se sobrescribe una salida existente.

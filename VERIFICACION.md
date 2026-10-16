@@ -30,7 +30,7 @@ Convolución: el primer resultado es 118, no 96. Se declara extensión con ceros
 ## Código y recursos probados
 
 - `python verificacion/comprobar.py`: aserciones de los problemas y estadísticas de Iris.
-- `gcc -Wall -Wextra -pedantic percep_modificado/percep.c -o percep_modificado/percep.exe -lm`: compila sin advertencias; el ejecutable comprueba las cuatro salidas.
+- `gcc -Wall -Wextra -pedantic red_xor/percep.c -o red_xor/percep.exe -lm`: compila sin advertencias; el ejecutable comprueba las cuatro salidas.
 - `python verificacion/probar_integracion.py`: carga de los siete gráficos, salto, aterrizaje, colisión, etiquetas de acción, aprendizaje del árbol y render del juego sin ventana.
 - La misma prueba entrena y guarda Eigenfaces, Fisherfaces y LBPH con patrones sintéticos, comprueba rechazo de sobrescrituras y tolerancia a archivos vacíos/corruptos, y carga Haar.
 - Se corrigieron rutas Unicode para guardar modelos y cargar Haar en Windows.

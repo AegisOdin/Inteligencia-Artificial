@@ -2,7 +2,7 @@
 
 Un robot salta sobre proyectiles y un árbol de decisión aprende sus órdenes manuales. Conserva el problema del juego de referencia: velocidad y distancia como entradas; saltar o esperar como salida, cuatro fotogramas, fondo móvil, nave y colisiones rectangulares.
 
-Ejecutar `python juego_modificado_arbol/juego_pygame_mlp2.py` después de instalar las dependencias. M inicia sesión manual nueva y borra datos/modelo; espacio salta; P pausa; T entrena; A juega automáticamente; C exporta CSV; 2/3 muestran gráficas; F cambia pantalla; Q sale. El nombre del archivo se conserva para encontrarlo fácilmente, pero el modelo es un **árbol**, no una MLP.
+Ejecutar `python orbita_de_cobre/juego_pygame_mlp2.py` después de instalar las dependencias. M inicia sesión manual nueva y borra datos/modelo; espacio salta; P pausa; T entrena; A juega automáticamente; C exporta CSV; 2/3 muestran gráficas; F cambia pantalla; Q sale. El nombre del archivo se conserva para encontrarlo fácilmente, pero el modelo es un **árbol**, no una MLP.
 
 ## Cambios que importan
 La etiqueta registra la orden al despegar, no todos los fotogramas en el aire. Solo se toman decisiones desde el suelo. Las rondas se separan entre entrenamiento y prueba para reducir filtración temporal. Se requieren 80 decisiones, tres rondas y ambas acciones; esos mínimos permiten ejecutar, no garantizan un modelo útil. El árbol tiene profundidad máxima 5.

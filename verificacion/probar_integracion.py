@@ -18,7 +18,7 @@ def modulo(nombre,ruta):
     spec.loader.exec_module(resultado)
     return resultado
 
-juego = modulo("orbita",RAIZ/"juego_modificado_arbol/juego_pygame_mlp2.py")
+juego = modulo("orbita",RAIZ/"orbita_de_cobre/juego_pygame_mlp2.py")
 app = juego.Juego()
 assert len(app.frames) == 4
 assert all(f.get_size() == (35,52) for f in app.frames)
@@ -55,10 +55,10 @@ app.dibujar()
 pygame.image.save(app.lienzo,str(RAIZ/"verificacion/menu.png"))
 pygame.quit()
 
-haar = modulo("haar",RAIZ/"haarcascade_dataset/haarcascade.py")
+haar = modulo("haar",RAIZ/"captura_rostros/haarcascade.py")
 assert not haar.cargar_detector().empty()
 
-caras = modulo("caras",RAIZ/"eigenfaces_fisherfaces_LBPH/entrenar.py")
+caras = modulo("caras",RAIZ/"comparacion_rostros/entrenar.py")
 with tempfile.TemporaryDirectory(dir=RAIZ/"verificacion") as temporal:
     carpeta = Path(temporal)
     datos = carpeta/"dataset"

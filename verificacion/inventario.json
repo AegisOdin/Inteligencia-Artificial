@@ -1,7 +1,7 @@
 [
   {
     "original": "arbol_red_diferencias/1.jpeg",
-    "nuevo": "arbol_red_diferencias/1.png",
+    "nuevo": "comparativa_clasificadores/1.png",
     "dimensiones": [
       1536,
       1024
@@ -12,7 +12,7 @@
   },
   {
     "original": "arbol_red_diferencias/2.jpeg",
-    "nuevo": "arbol_red_diferencias/2.png",
+    "nuevo": "comparativa_clasificadores/2.png",
     "dimensiones": [
       1024,
       1536
@@ -23,7 +23,7 @@
   },
   {
     "original": "arbol_red_diferencias/3.jpeg",
-    "nuevo": "arbol_red_diferencias/3.png",
+    "nuevo": "comparativa_clasificadores/3.png",
     "dimensiones": [
       1536,
       1024
@@ -34,7 +34,7 @@
   },
   {
     "original": "arbol_red_diferencias/4.jpeg",
-    "nuevo": "arbol_red_diferencias/4.png",
+    "nuevo": "comparativa_clasificadores/4.png",
     "dimensiones": [
       1536,
       1024
@@ -45,7 +45,7 @@
   },
   {
     "original": "arbol_red_diferencias/5.jpeg",
-    "nuevo": "arbol_red_diferencias/5.png",
+    "nuevo": "comparativa_clasificadores/5.png",
     "dimensiones": [
       1536,
       1024
@@ -56,7 +56,7 @@
   },
   {
     "original": "arbol_red_diferencias/6.jpeg",
-    "nuevo": "arbol_red_diferencias/6.png",
+    "nuevo": "comparativa_clasificadores/6.png",
     "dimensiones": [
       1536,
       1024
@@ -67,7 +67,7 @@
   },
   {
     "original": "arbol_red_diferencias/7.jpeg",
-    "nuevo": "arbol_red_diferencias/7.png",
+    "nuevo": "comparativa_clasificadores/7.png",
     "dimensiones": [
       1536,
       1024
@@ -78,7 +78,7 @@
   },
   {
     "original": "dataset_excel/iris.jpg",
-    "nuevo": "dataset_excel/iris.png",
+    "nuevo": "exploracion_iris/iris.png",
     "dimensiones": [
       1024,
       1536
@@ -89,7 +89,7 @@
   },
   {
     "original": "dataset_pelotas_rebotantes/1.jpeg",
-    "nuevo": "dataset_pelotas_rebotantes/1.png",
+    "nuevo": "trayectorias_pelotas/1.png",
     "dimensiones": [
       1536,
       1024
@@ -100,7 +100,7 @@
   },
   {
     "original": "dataset_pelotas_rebotantes/2.jpeg",
-    "nuevo": "dataset_pelotas_rebotantes/2.png",
+    "nuevo": "trayectorias_pelotas/2.png",
     "dimensiones": [
       1024,
       1536
@@ -111,7 +111,7 @@
   },
   {
     "original": "evaluacion_a_aterisco/datos.jpeg",
-    "nuevo": "evaluacion_a_aterisco/datos.png",
+    "nuevo": "busqueda_ruta_astar/datos.png",
     "dimensiones": [
       1222,
       1287
@@ -122,7 +122,7 @@
   },
   {
     "original": "evaluacion_a_aterisco/tabla.jpeg",
-    "nuevo": "evaluacion_a_aterisco/tabla.png",
+    "nuevo": "busqueda_ruta_astar/tabla.png",
     "dimensiones": [
       1536,
       1024
@@ -133,7 +133,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/fondo.jpg",
-    "nuevo": "juego_modificado_arbol/assets/game/fondo_alternativo.png",
+    "nuevo": "orbita_de_cobre/assets/game/fondo_alternativo.png",
     "dimensiones": [
       1672,
       941
@@ -144,7 +144,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/fondo.png",
-    "nuevo": "juego_modificado_arbol/assets/game/fondo.png",
+    "nuevo": "orbita_de_cobre/assets/game/fondo.png",
     "dimensiones": [
       1254,
       1254
@@ -155,7 +155,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/fondo2.png",
-    "nuevo": "juego_modificado_arbol/assets/game/fondo2.png",
+    "nuevo": "orbita_de_cobre/assets/game/fondo2.png",
     "dimensiones": [
       1536,
       1024
@@ -166,7 +166,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/menu.png",
-    "nuevo": "juego_modificado_arbol/assets/game/menu.png",
+    "nuevo": "orbita_de_cobre/assets/game/menu.png",
     "dimensiones": [
       1536,
       1024
@@ -177,7 +177,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/ufo.png",
-    "nuevo": "juego_modificado_arbol/assets/game/ufo.png",
+    "nuevo": "orbita_de_cobre/assets/game/ufo.png",
     "dimensiones": [
       1254,
       1254
@@ -191,7 +191,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/junks/cannon.png",
-    "nuevo": "juego_modificado_arbol/assets/junks/cannon.png",
+    "nuevo": "orbita_de_cobre/assets/junks/cannon.png",
     "dimensiones": [
       1536,
       1024
@@ -205,7 +205,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/junks/dude.png",
-    "nuevo": "juego_modificado_arbol/assets/junks/dude.png",
+    "nuevo": "orbita_de_cobre/assets/junks/dude.png",
     "dimensiones": [
       2172,
       724
@@ -219,7 +219,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/junks/dude_1.png",
-    "nuevo": "juego_modificado_arbol/assets/junks/dude_1.png",
+    "nuevo": "orbita_de_cobre/assets/junks/dude_1.png",
     "dimensiones": [
       1024,
       1536
@@ -233,7 +233,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/junks/player1.png",
-    "nuevo": "juego_modificado_arbol/assets/junks/player1.png",
+    "nuevo": "orbita_de_cobre/assets/junks/player1.png",
     "dimensiones": [
       2172,
       724
@@ -247,7 +247,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/altair.png",
-    "nuevo": "juego_modificado_arbol/assets/sprites/altair.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/altair.png",
     "dimensiones": [
       1268,
       1240
@@ -261,7 +261,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/altair2.png",
-    "nuevo": "juego_modificado_arbol/assets/sprites/altair2.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/altair2.png",
     "dimensiones": [
       2172,
       724
@@ -275,7 +275,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/mono_frame_1.png",
-    "nuevo": "juego_modificado_arbol/assets/sprites/mono_frame_1.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/mono_frame_1.png",
     "dimensiones": [
       1024,
       1536
@@ -289,7 +289,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/mono_frame_2.png",
-    "nuevo": "juego_modificado_arbol/assets/sprites/mono_frame_2.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/mono_frame_2.png",
     "dimensiones": [
       1024,
       1536
@@ -303,7 +303,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/mono_frame_3.png",
-    "nuevo": "juego_modificado_arbol/assets/sprites/mono_frame_3.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/mono_frame_3.png",
     "dimensiones": [
       1024,
       1536
@@ -317,7 +317,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/mono_frame_4.png",
-    "nuevo": "juego_modificado_arbol/assets/sprites/mono_frame_4.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/mono_frame_4.png",
     "dimensiones": [
       1024,
       1536
@@ -331,7 +331,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/player.png",
-    "nuevo": "juego_modificado_arbol/assets/sprites/player.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/player.png",
     "dimensiones": [
       2172,
       724
@@ -345,7 +345,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/player1.png",
-    "nuevo": "juego_modificado_arbol/assets/sprites/player1.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/player1.png",
     "dimensiones": [
       2172,
       724
@@ -359,7 +359,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/purple_ball.png",
-    "nuevo": "juego_modificado_arbol/assets/sprites/purple_ball.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/purple_ball.png",
     "dimensiones": [
       1254,
       1254
@@ -373,7 +373,7 @@
   },
   {
     "original": "kernel_convolucion/1.jpeg",
-    "nuevo": "kernel_convolucion/1.png",
+    "nuevo": "filtros_matriciales/1.png",
     "dimensiones": [
       1536,
       1024

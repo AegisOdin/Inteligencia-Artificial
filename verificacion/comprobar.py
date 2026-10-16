@@ -8,8 +8,8 @@ from statistics import mean
 RAIZ = Path(__file__).resolve().parents[1]
 sys.path.insert(0,str(RAIZ))
 from ejercicios.soluciones import camino,islas,josephus
-from kernel_convolucion.calculo import ENTRADA,convolucion
-from evaluacion_a_aterisco.resolver import resolver,vecinos,RUTA_REFERENCIA,MUROS
+from filtros_matriciales.calculo import ENTRADA,convolucion
+from busqueda_ruta_astar.resolver import resolver,vecinos,RUTA_REFERENCIA,MUROS
 
 reinas = [3,1,4,2]
 assert len(set(reinas)) == len(set(i-c for i,c in enumerate(reinas))) == len(set(i+c for i,c in enumerate(reinas))) == 4
@@ -53,7 +53,7 @@ for a,b in zip(RUTA_REFERENCIA,RUTA_REFERENCIA[1:]):
     acumulados.append(acumulados[-1]+dict(vecinos(a))[b])
 assert acumulados == [0,10,20,34,44,54,64,78,92,102]
 
-with (RAIZ/"dataset_excel/dataset.csv").open() as archivo:
+with (RAIZ/"exploracion_iris/dataset.csv").open() as archivo:
     datos = [[float(x) for x in fila] for fila in csv.reader(archivo) if fila]
 assert len(datos) == 150 and all(len(f)==4 for f in datos)
 iris = []

@@ -21,7 +21,7 @@ def guardar(ruta,duracion,inicio,fin):
         assert archivo.getnframes() == cantidad and archivo.getsampwidth() == 2
 
 if __name__ == "__main__":
-    carpeta = Path(__file__).resolve().parents[1]/"juego_modificado_arbol/assets/audio"
+    carpeta = Path(__file__).resolve().parents[1]/"orbita_de_cobre/assets/audio"
     carpeta.mkdir(parents=True,exist_ok=True)
     guardar(carpeta/"jump.wav",.18,350,950)
     guardar(carpeta/"game_over.wav",.6,420,90)
