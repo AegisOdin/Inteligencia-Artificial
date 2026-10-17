@@ -60,3 +60,10 @@ El historial de referencia consultado abarca del 3 de septiembre al 21 de octubr
 - [OpenCV: reconocimiento facial](https://docs.opencv.org/4.12.0/da/d60/tutorial_face_main.html).
 - [scikit-learn: árboles](https://sklearn.org/stable/modules/tree.html).
 - [scikit-learn: redes multicapa](https://github.com/scikit-learn/scikit-learn/blob/main/doc/modules/neural_networks_supervised.rst).
+
+
+## Revisi?n de estilo manuscrito
+
+Se sustituyeron 11 l?minas por im?genes generadas con apariencia de apuntes manuscritos: siete de comparaci?n de clasificadores, dos de pelotas, una de convoluci?n y matrices.png. Se revisaron visualmente texto, ?ndices, f?rmulas, tablas y diagramas. Dos intentos se descartaron y regeneraron por contenido a?adido incorrecto o ambiguo. Los prompts finales est?n en `verificacion/manuscritas.json`. Se us? image_gen integrada.
+
+Unidad 1/Evaluacion, busqueda_ruta_astar, Iris y los recursos del juego se conservaron sin cambios. Pasaron el inventario y las comprobaciones num?ricas. La apariencia manuscrita es sint?tica.

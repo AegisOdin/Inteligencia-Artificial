@@ -1,0 +1,69 @@
+{
+  "herramienta": "image_gen integrada",
+  "imagenes": 11,
+  "generaciones": 13,
+  "excluidas": [
+    "Unidad 1/Evaluacion",
+    "busqueda_ruta_astar",
+    "exploracion_iris",
+    "orbita_de_cobre"
+  ],
+  "revision": "Inspección visual de las 11 imágenes: texto, fórmulas, tablas y diagramas. Pelotas 2 regenerada para eliminar conteo incorrecto; comparación 6 regenerada para eliminar notas adicionales ambiguas.",
+  "archivos": [
+    {
+      "dest": "matrices.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'Índices de una matriz'. One grid exactly 3 rows and 8 columns. Label rows on left 0,1,2 and columns above 0,1,2,3,4,5,6,7. Left bracket '3 filas'; bottom bracket '8 columnas'. Highlight row 1 column 7 in copper, label '(fila 1, columna 7)'. This is an index diagram, no maze obstacles.",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-92d2549b-f7bf-4861-a7e3-ac976396e663.png"
+    },
+    {
+      "dest": "filtros_matriciales/1.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'Kernel de vecinos · cálculo verificado'. Three labeled matrices. 'Entrada' exactly rows: [6,18,21,180,18]; [60,40,13,20,21]; [70,71,68,41,15]; [14,16,117,160,160]; [21,211,216,217,150]. 'Kernel' exactly [1,1,1];[1,0,1];[1,1,1]. 'Salida' exactly [118,140,255,93,221];[205,255,255,255,255];[201,255,255,255,255];[255,255,255,255,255];[241,255,255,255,255]. Footer 'Bordes con ceros. Saturación al intervalo [0,255].' Worked example 'Esquina: 18 + 60 + 40 = 118'. All matrices with precise cell boundaries.",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-8f270f07-18e9-4e28-8fc2-aaa2bba146ad.png"
+    },
+    {
+      "dest": "trayectorias_pelotas/1.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'Esquivar pelotas: estado y objetivo'. A square arena with a copper robot at center and three teal balls around it, directional velocity arrows away from balls, no collisions shown. Adjacent short list 'Entradas en t: posición, velocidad, radio y acción'. Small pipeline 'Estado + acción → ¿Colisión en t+1?'. Bottom 'De 1 a 3 pelotas · 8 direcciones de movimiento'. Technical schematic, no invented scores.",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-ea969744-00b8-4c36-a761-407559634284.png"
+    },
+    {
+      "dest": "trayectorias_pelotas/2.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'Cobertura no es tamaño suficiente'. Big equation '3 × 8 × 8 = 192'. Under factors exact labels 'cantidades de pelotas', 'acciones', 'direcciones de una pelota'. Notice 'Cruce simplificado: faltan posiciones, velocidades y rebotes'. Three steps 'Registrar por frame', 'Separar por partida', 'Evaluar colisiones y supervivencia'. Footer 'A 60 Hz: Δt ≈ 16.67 ms. Quedarse quieto añade una novena acción.' STRICT: Use ONLY the requested title, equation, factor labels, notice, three steps and footer. NO extra explanatory prose, NO example, NO lists of ball counts, NO directional diagrams, NO catching balls. The task is avoiding collisions. There are exactly THREE possible quantities of balls: 1, 2 or 3, never 0. The three factors are 3 quantities, 8 actions, 8 directions of ONE ball. Keep this a simplified count, not a sufficient dataset size.",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-c40d82c5-cbba-4e01-b61c-bf09d4ae54e7.png"
+    },
+    {
+      "dest": "comparativa_clasificadores/1.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'MLP: transformar para aprender'. Diagram exactly three labeled columns 'Entrada', 'Capas ocultas', 'Salida', connected left to right. Three concise points 'Relaciones no lineales', 'Representaciones aprendidas', 'Ajuste mediante gradientes'. Footer 'Las activaciones no lineales permiten ir más allá de una frontera lineal.'",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-63108acf-e5df-45f5-9b18-0ea8481b3c6f.png"
+    },
+    {
+      "dest": "comparativa_clasificadores/2.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'MLP: costos y decisiones'. Four concise cards 'Escalado de variables', 'Selección de hiperparámetros', 'Riesgo de sobreajuste', 'Interpretación difícil'. Bottom separate section 'Árbol de decisión' with simple root branches leaves schematic and caption 'Reglas organizadas desde la raíz hasta las hojas'. No mathematical results or metrics.",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-792fa872-21ae-4e50-b132-d097e4dc328d.png"
+    },
+    {
+      "dest": "comparativa_clasificadores/3.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'Árbol: ventajas y límites'. Two columns. 'Ventajas': 'Ruta explicable', 'Poco preprocesamiento', 'Predicción rápida', 'Relaciones no lineales'. 'Límites': 'Sobreajuste', 'Alta varianza', 'Divisiones voraces', 'Fronteras fragmentadas'. Footer 'Controlar profundidad y tamaño de las hojas; evaluar con datos nuevos.'",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-dfac81be-e1dc-412f-92e1-360257265a2e.png"
+    },
+    {
+      "dest": "comparativa_clasificadores/4.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'Dos formas de representar una decisión'. Left labelled 'MLP' exact formula 'h = activación(Wx + b)' and caption 'Combina transformaciones; ajusta pesos y sesgos'. Right labelled 'Árbol' exact condition 'x_j ≤ t' and caption 'Divide el espacio; aprende variables y umbrales'. Simple branch diagram underneath right. Footer 'Ambos pueden modelar relaciones no lineales.'",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-9f6a8df6-efc4-454e-a875-9f2371bd948b.png"
+    },
+    {
+      "dest": "comparativa_clasificadores/5.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'De la entrada a la predicción'. Three-row comparison table headers 'Etapa', 'MLP', 'Árbol'. Rows: 'Entrada' | 'Vector de características' | 'Variables para reglas'; 'Proceso' | 'Transformaciones por capas' | 'Comparaciones en nodos'; 'Predicción' | 'Propagación hasta la salida' | 'Una ruta hasta una hoja'. Keep text legible large, no other prose.",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-c8bffef8-a19a-4d01-848b-5c75823967e5.png"
+    },
+    {
+      "dest": "comparativa_clasificadores/6.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'Cómo se ajusta cada modelo'. Two process columns. 'MLP': 'Predecir → Calcular pérdida → Retropropagar gradientes → Actualizar parámetros'. 'Árbol': 'Evaluar divisiones → Reducir impureza → Crear nodos → Limitar crecimiento'. Footer 'La red suele repetir épocas; el árbol construye particiones progresivas.' Use only the specified text and simple arrows between the four steps in each column. Do not add formulas, sample networks, example thresholds, or extra captions. No 'nodos mínimos'. Keep the entire content concise as requested.",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-15c81f3a-d0d0-468e-a308-916613a07674.png"
+    },
+    {
+      "dest": "comparativa_clasificadores/7.png",
+      "prompt": "Create a realistic overhead photograph of handwritten university notebook notes on pale small squared paper. Natural right-slanted semi-cursive blue ballpoint handwriting with joined letters, uneven pressure and subtly irregular baselines. Red pen headings and underlining. All diagrams and tables drawn by hand with pen. No typeset text, digital infographic styling, logos, author name, signature or date. Clean readable full page, no clipped content. Preserve exactly all following Spanish text, numbers, equations and meaning. Title 'Características y resultado'. Two columns 'MLP' and 'Árbol'. MLP text 'Combina varias entradas en cada neurona' and 'La capa final produce la predicción'. Árbol text 'Cada nodo suele evaluar una variable' and 'La hoja entrega clase o probabilidades'. Bottom emphasis 'Comparar sobre la misma prueba. Probabilidad no implica calibración.'",
+      "source": "C:\\Users\\Odín\\.codex\\generated_images\\01a17493-c4cc-7ad0-bd36-e12339ac0646\\exec-df4d4832-33ba-48aa-863c-0a85ea5655e5.png"
+    }
+  ]
+}

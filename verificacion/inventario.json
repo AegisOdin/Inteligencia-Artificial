@@ -3,12 +3,12 @@
     "original": "arbol_red_diferencias/1.jpeg",
     "nuevo": "comparativa_clasificadores/1.png",
     "dimensiones": [
-      1536,
-      1024
+      1024,
+      1536
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "6ad131243ec7b7983422a01f631c720832fe3ed936032c3859c12720019ed0a8"
+    "sha256": "6d4baf9174f4a549138cbf12db48f46c20f00fee05881d3f2e2c3e421e4b02a1"
   },
   {
     "original": "arbol_red_diferencias/2.jpeg",
@@ -19,62 +19,62 @@
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "5ea26f4eca46eb05d90f67d73db11e46ce32a9f26457651f9f2564d38473962d"
+    "sha256": "0b8da8196071086f07682d90893959f17cc4ccb3721403401ad88e9f7f03f454"
   },
   {
     "original": "arbol_red_diferencias/3.jpeg",
     "nuevo": "comparativa_clasificadores/3.png",
     "dimensiones": [
-      1536,
-      1024
+      1024,
+      1536
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "b96a8fb4c73793820e813444edfa03e357d21db86ee1f441285456f219063947"
+    "sha256": "08ebcf02ea7eb8ea2ef22fcfe4fd09d4e237ca5a15aac0885b114182d58214b2"
   },
   {
     "original": "arbol_red_diferencias/4.jpeg",
     "nuevo": "comparativa_clasificadores/4.png",
     "dimensiones": [
-      1536,
-      1024
+      1024,
+      1536
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "ff1d068acbe9c5c22661d980e0db05e3a36892f444cb68573a3f92028683d5c8"
+    "sha256": "4ca90fbab84e4bd7033db8f13d0dada62fbcd54fb75e79e4101f7f460b875e0d"
   },
   {
     "original": "arbol_red_diferencias/5.jpeg",
     "nuevo": "comparativa_clasificadores/5.png",
     "dimensiones": [
-      1536,
-      1024
+      1024,
+      1536
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "e24b80b937030173362b69429c71539fdaa8985b097bfaa052984634556f9115"
+    "sha256": "84fc283a4055359bf1ab51d6feff555a0c61ef432bdfeb2b1549ff5e33beec17"
   },
   {
     "original": "arbol_red_diferencias/6.jpeg",
     "nuevo": "comparativa_clasificadores/6.png",
     "dimensiones": [
-      1536,
-      1024
+      1086,
+      1448
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "63d681565c454a2bbcf397b923f1c6dd96ed87e470405d6cd440561145638454"
+    "sha256": "d48d4d590a4a1149ad937e7ddbd45560a83b2aad7e9656dbb3b2d9bd6564756d"
   },
   {
     "original": "arbol_red_diferencias/7.jpeg",
     "nuevo": "comparativa_clasificadores/7.png",
     "dimensiones": [
-      1536,
-      1024
+      1024,
+      1536
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "f574d00ef707da79a2de1bea85e61ec219c83311b4c3e7bfd443436ea442bf7e"
+    "sha256": "33bda72d324f3057ac74a5f07be169da94ff4f1776ae8cd4f4d75d687c0b9c4e"
   },
   {
     "original": "dataset_excel/iris.jpg",
@@ -91,12 +91,12 @@
     "original": "dataset_pelotas_rebotantes/1.jpeg",
     "nuevo": "trayectorias_pelotas/1.png",
     "dimensiones": [
-      1536,
-      1024
+      1024,
+      1536
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "16c3032ec59017f52cadc93aee8ee87be36d935669b5dfcf07d5917bf99da0a8"
+    "sha256": "dcf33d22e048d583405da192aa28fd678e9065d02e07840967def06c4a8bd2a9"
   },
   {
     "original": "dataset_pelotas_rebotantes/2.jpeg",
@@ -107,7 +107,7 @@
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "70c7d5b3d84586652e2006d95e99b77c24002a4a54815ed8850c7c5648f65f12"
+    "sha256": "d22a41909c2d5cb1466de61606db7831f7a6b9c009cbbd8bbf631ab11beecca1"
   },
   {
     "original": "evaluacion_a_aterisco/datos.jpeg",
@@ -375,22 +375,22 @@
     "original": "kernel_convolucion/1.jpeg",
     "nuevo": "filtros_matriciales/1.png",
     "dimensiones": [
-      1536,
-      1024
+      1222,
+      1287
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "d20dd61f32cd12938afc74f07beaa1d6825a730eeac68f5177bb7279aa4383dd"
+    "sha256": "fce2a83beecbb1328e86ec332de10543dcee5a64d60ea26e7b42c3a2915f5019"
   },
   {
     "original": "matrices.jpeg",
     "nuevo": "matrices.png",
     "dimensiones": [
-      1774,
-      887
+      1024,
+      1536
     ],
     "modo": "RGB",
     "alfa": null,
-    "sha256": "2927b33c962d61c6724e8fdb546f1d8511f855227c9e63bba74bda8f4aed6afe"
+    "sha256": "3acdc44d7bb0ee5690459e6ce357520228eead519bd4ea9d82544a921f4ee160"
   }
 ]
