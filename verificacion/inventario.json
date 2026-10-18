@@ -133,7 +133,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/fondo.jpg",
-    "nuevo": "orbita_de_cobre/assets/game/fondo_alternativo.png",
+    "nuevo": "orbita_de_cobre/assets/game/horizonte_alternativo.png",
     "dimensiones": [
       1672,
       941
@@ -144,7 +144,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/fondo.png",
-    "nuevo": "orbita_de_cobre/assets/game/fondo.png",
+    "nuevo": "orbita_de_cobre/assets/game/plataforma_cobre.png",
     "dimensiones": [
       1254,
       1254
@@ -155,7 +155,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/fondo2.png",
-    "nuevo": "orbita_de_cobre/assets/game/fondo2.png",
+    "nuevo": "orbita_de_cobre/assets/game/desierto_observatorio.png",
     "dimensiones": [
       1536,
       1024
@@ -166,7 +166,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/menu.png",
-    "nuevo": "orbita_de_cobre/assets/game/menu.png",
+    "nuevo": "orbita_de_cobre/assets/game/portada_orbita.png",
     "dimensiones": [
       1536,
       1024
@@ -177,7 +177,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/game/ufo.png",
-    "nuevo": "orbita_de_cobre/assets/game/ufo.png",
+    "nuevo": "orbita_de_cobre/assets/game/dron_enemigo.png",
     "dimensiones": [
       1254,
       1254
@@ -191,7 +191,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/junks/cannon.png",
-    "nuevo": "orbita_de_cobre/assets/junks/cannon.png",
+    "nuevo": "orbita_de_cobre/assets/junks/lanzador_cobre.png",
     "dimensiones": [
       1536,
       1024
@@ -205,7 +205,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/junks/dude.png",
-    "nuevo": "orbita_de_cobre/assets/junks/dude.png",
+    "nuevo": "orbita_de_cobre/assets/junks/robot_secuencia.png",
     "dimensiones": [
       2172,
       724
@@ -219,7 +219,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/junks/dude_1.png",
-    "nuevo": "orbita_de_cobre/assets/junks/dude_1.png",
+    "nuevo": "orbita_de_cobre/assets/junks/robot_pose.png",
     "dimensiones": [
       1024,
       1536
@@ -233,7 +233,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/junks/player1.png",
-    "nuevo": "orbita_de_cobre/assets/junks/player1.png",
+    "nuevo": "orbita_de_cobre/assets/junks/explorador_secuencia.png",
     "dimensiones": [
       2172,
       724
@@ -247,7 +247,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/altair.png",
-    "nuevo": "orbita_de_cobre/assets/sprites/altair.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/explorador_pose.png",
     "dimensiones": [
       1268,
       1240
@@ -261,7 +261,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/altair2.png",
-    "nuevo": "orbita_de_cobre/assets/sprites/altair2.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/explorador_carrera.png",
     "dimensiones": [
       2172,
       724
@@ -275,7 +275,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/mono_frame_1.png",
-    "nuevo": "orbita_de_cobre/assets/sprites/mono_frame_1.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/robot_carrera_1.png",
     "dimensiones": [
       1024,
       1536
@@ -289,7 +289,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/mono_frame_2.png",
-    "nuevo": "orbita_de_cobre/assets/sprites/mono_frame_2.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/robot_carrera_2.png",
     "dimensiones": [
       1024,
       1536
@@ -303,7 +303,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/mono_frame_3.png",
-    "nuevo": "orbita_de_cobre/assets/sprites/mono_frame_3.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/robot_carrera_3.png",
     "dimensiones": [
       1024,
       1536
@@ -317,7 +317,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/mono_frame_4.png",
-    "nuevo": "orbita_de_cobre/assets/sprites/mono_frame_4.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/robot_carrera_4.png",
     "dimensiones": [
       1024,
       1536
@@ -331,7 +331,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/player.png",
-    "nuevo": "orbita_de_cobre/assets/sprites/player.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/robot_movimientos.png",
     "dimensiones": [
       2172,
       724
@@ -345,7 +345,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/player1.png",
-    "nuevo": "orbita_de_cobre/assets/sprites/player1.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/robot_acciones.png",
     "dimensiones": [
       2172,
       724
@@ -359,7 +359,7 @@
   },
   {
     "original": "juego_modificado_arbol/assets/sprites/purple_ball.png",
-    "nuevo": "orbita_de_cobre/assets/sprites/purple_ball.png",
+    "nuevo": "orbita_de_cobre/assets/sprites/orbe_energia.png",
     "dimensiones": [
       1254,
       1254

@@ -42,11 +42,11 @@ class Juego:
         self.lienzo = pygame.Surface((ANCHO,ALTO))
         self.fuente = pygame.font.SysFont("Segoe UI",24)
         self.pequena = pygame.font.SysFont("Segoe UI",18)
-        self.frames = [self.imagen(f"sprites/mono_frame_{n}.png",(35,52)) for n in range(1,5)]
-        self.orbe = self.imagen("sprites/purple_ball.png",(17,17))
-        self.dron = self.imagen("game/ufo.png",(70,70))
+        self.frames = [self.imagen(f"sprites/robot_carrera_{n}.png",(35,52)) for n in range(1,5)]
+        self.orbe = self.imagen("sprites/orbe_energia.png",(17,17))
+        self.dron = self.imagen("game/dron_enemigo.png",(70,70))
         # El fondo tiene plataforma a ~81%; se encuadra para alinearla con los pies a y=662.
-        self.fondo = self.imagen("game/fondo2.png",(ANCHO,815))
+        self.fondo = self.imagen("game/desierto_observatorio.png",(ANCHO,815))
         self.fondo_invertido = pygame.transform.flip(self.fondo,True,False)
         self.datos = []
         self.modelo = None

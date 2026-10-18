@@ -10,6 +10,6 @@ La etiqueta registra la orden al despegar, no todos los fotogramas en el aire. S
 El escenario mantiene 1080×720 como espacio de física incluso al usar pantalla completa; cambiar de pantalla no modifica colisiones. Velocidad y salto usan fotogramas a 45 Hz, como la referencia.
 
 ## Recursos
-Se regeneran los siete recursos activos y los once visuales de reserva, además de dos sonidos sintetizados. Los sonidos y hojas alternativas se conservan como recursos disponibles; no se presentan como usados por el bucle actual. `fondo.jpg` pasa a `fondo_alternativo.png`; `jump.mp3` pasa a `jump.wav`. Los PNG preservan transparencia donde corresponde. Los recursos originales del compañero no se copian.
+Se regeneran los siete recursos activos y los once visuales de reserva, además de dos sonidos sintetizados. Los sonidos y hojas alternativas se conservan como recursos disponibles; no se presentan como usados por el bucle actual. `fondo.jpg` pasa a `horizonte_alternativo.png`; `jump.mp3` pasa a `impulso.wav`. Los PNG preservan transparencia donde corresponde. Los recursos originales del compañero no se copian.
 
 El fondo se encuadra al cargarlo para alinear la plataforma con los pies. Las ilustraciones no cambian las cajas de colisión. La prueba automática carga las imágenes, recorre frames y entrena con datos sintéticos claramente identificados; esto no sustituye medir supervivencia con partidas humanas.

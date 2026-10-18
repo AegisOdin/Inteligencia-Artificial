@@ -23,6 +23,6 @@ def guardar(ruta,duracion,inicio,fin):
 if __name__ == "__main__":
     carpeta = Path(__file__).resolve().parents[1]/"orbita_de_cobre/assets/audio"
     carpeta.mkdir(parents=True,exist_ok=True)
-    guardar(carpeta/"jump.wav",.18,350,950)
-    guardar(carpeta/"game_over.wav",.6,420,90)
+    guardar(carpeta/"impulso.wav",.18,350,950)
+    guardar(carpeta/"fin_partida.wav",.6,420,90)
     print("OK: dos efectos PCM originales.")

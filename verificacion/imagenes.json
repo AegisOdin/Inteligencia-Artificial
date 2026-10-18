@@ -5,95 +5,95 @@
   "generaciones": 35,
   "revisiones": [
     {
-      "dest": "orbita_de_cobre/assets/game/fondo2.png",
+      "dest": "orbita_de_cobre/assets/game/desierto_observatorio.png",
       "prompt": "Create an original 2D side-scrolling game background, landscape 3:2 ratio. Alien desert observatory at twilight: indigo sky, distant mauve mesas, small luminous cyan crystals, copper metal running platform exactly at 92% of image height. Flat side-on view, crisp illustrated game art, restrained detail, no characters, no text, no UI. Left and right edges must visually tile seamlessly. Platform continuous horizontally. Lower 8% is its structural side. Main playable area clear, visibly distinct from a green forest platform game.",
       "transparent": false
     },
     {
-      "dest": "orbita_de_cobre/assets/sprites/mono_frame_1.png",
+      "dest": "orbita_de_cobre/assets/sprites/robot_carrera_1.png",
       "prompt": "Single original tiny game character: friendly copper-orange maintenance robot with a square cyan face screen, short antenna, teal scarf, chunky boots. Strict side view facing right, running animation contact pose, left leg forward right leg back. Entire body centered, fills 85% canvas height. Bold simple pixel-art forms readable at 32x48 pixels, no letters, no floor, no shadow, no accessories beyond described. Transparent background. Portrait 2:3.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/sprites/purple_ball.png",
+      "dest": "orbita_de_cobre/assets/sprites/orbe_energia.png",
       "prompt": "Single glowing amber energy orb projectile for a 2D pixel art game, circular gold shell around cyan core, very simple bold silhouette readable at 16x16 pixels. Centered fills 90% square canvas, no trails, no text, no ground, transparent background.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/game/ufo.png",
+      "dest": "orbita_de_cobre/assets/game/dron_enemigo.png",
       "prompt": "Single original enemy drone for a side-view 2D pixel-art space game. Copper hexagonal hovering mechanical pod, dark teal panels, cyan central light, short barrel points left. Bold compact silhouette readable at 64x64, centered fills 90% square image, no text, no ground or shadow. Transparent background.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/sprites/mono_frame_2.png",
+      "dest": "orbita_de_cobre/assets/sprites/robot_carrera_2.png",
       "prompt": "Edit the reference robot into the next running-animation frame: passing pose: knees close together, rear foot lifted. Preserve identical copper-orange robot, cyan rectangular face, teal scarf, pixel style, facing right, camera, proportions and canvas size. Full body at same scale and baseline. Remove any glow outside silhouette; transparent background. No floor, no text.",
       "transparent": true,
-      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/orbita_de_cobre/assets/sprites/mono_frame_1.png"
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/orbita_de_cobre/assets/sprites/robot_carrera_1.png"
     },
     {
-      "dest": "orbita_de_cobre/assets/sprites/mono_frame_3.png",
+      "dest": "orbita_de_cobre/assets/sprites/robot_carrera_3.png",
       "prompt": "Edit the reference robot into the next running-animation frame: opposite contact pose: right leg forward and left leg back. Preserve identical copper-orange robot, cyan rectangular face, teal scarf, pixel style, facing right, camera, proportions and canvas size. Full body at same scale and baseline. Remove any glow outside silhouette; transparent background. No floor, no text.",
       "transparent": true,
-      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/orbita_de_cobre/assets/sprites/mono_frame_1.png"
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/orbita_de_cobre/assets/sprites/robot_carrera_1.png"
     },
     {
-      "dest": "orbita_de_cobre/assets/sprites/mono_frame_4.png",
+      "dest": "orbita_de_cobre/assets/sprites/robot_carrera_4.png",
       "prompt": "Edit the reference robot into the next running-animation frame: opposite passing pose: weight over other leg, front knee lifted. Preserve identical copper-orange robot, cyan rectangular face, teal scarf, pixel style, facing right, camera, proportions and canvas size. Full body at same scale and baseline. Remove any glow outside silhouette; transparent background. No floor, no text.",
       "transparent": true,
-      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/orbita_de_cobre/assets/sprites/mono_frame_1.png"
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/orbita_de_cobre/assets/sprites/robot_carrera_1.png"
     },
     {
-      "dest": "orbita_de_cobre/assets/game/fondo.png",
+      "dest": "orbita_de_cobre/assets/game/plataforma_cobre.png",
       "prompt": "Square 2D game background: alien copper desert at dawn, geometric terraced mesas and cyan crystals, indigo sky, side view, continuous metal platform at 92% height. No people, no text. Original pixel-inspired illustrated style.",
       "transparent": false
     },
     {
-      "dest": "orbita_de_cobre/assets/game/fondo_alternativo.png",
+      "dest": "orbita_de_cobre/assets/game/horizonte_alternativo.png",
       "prompt": "Wide 16:9 minimalist 2D background for space exploration game. Layered violet desert silhouettes, huge pale orange moon, dark indigo sky with few stars. No floor foreground, no characters, no text.",
       "transparent": false
     },
     {
-      "dest": "orbita_de_cobre/assets/game/menu.png",
+      "dest": "orbita_de_cobre/assets/game/portada_orbita.png",
       "prompt": "Landscape 3:2 game menu illustration. Dark indigo copper observatory console border, center spacious dark panels stacked vertically. EXACT text top panel 'MANUAL' bottom panel 'AUTOMÁTICO'. Restrained cyan and orange highlights, clear readable lettering, original sci-fi game art.",
       "transparent": false
     },
     {
-      "dest": "orbita_de_cobre/assets/sprites/altair.png",
+      "dest": "orbita_de_cobre/assets/sprites/explorador_pose.png",
       "prompt": "Transparent game sprite sheet, exactly 4 columns by 4 rows equal cells, same small copper orange robot with cyan face and teal scarf. Row1 faces front, row2 faces left, row3 faces right, row4 faces back. Four walking poses per row. Full bodies with consistent scale and baseline, clear gaps, no labels or background. Original pixel art.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/sprites/altair2.png",
+      "dest": "orbita_de_cobre/assets/sprites/explorador_carrera.png",
       "prompt": "Transparent sprite sheet exactly 4 equal columns, one row, same copper robot cyan face teal scarf walking right in four phases. Clean pixel art, full body, identical scale and baseline, isolated separated cells, no labels.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/sprites/player.png",
+      "dest": "orbita_de_cobre/assets/sprites/robot_movimientos.png",
       "prompt": "Transparent 2D sprite sheet four equal columns one row. Original little turquoise alien explorer wearing orange backpack, large round head two short antennae, four walking poses facing right, full body, simple crisp pixel art. Same scale baseline, clear gap, no text.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/sprites/player1.png",
+      "dest": "orbita_de_cobre/assets/sprites/robot_acciones.png",
       "prompt": "Transparent 2D sprite sheet exactly four equal columns one row: original cream and orange moon fox in teal boots running right, four phases. No resemblance to existing game characters. Entire bodies same scale and baseline, clear gaps, crisp pixel art, no text.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/junks/cannon.png",
+      "dest": "orbita_de_cobre/assets/junks/lanzador_cobre.png",
       "prompt": "Single side-view copper and teal wheeled energy cannon facing left, cyan barrel opening, dark orange wheels, original pixel art game object, full object centered on transparent background. No text.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/junks/dude.png",
+      "dest": "orbita_de_cobre/assets/junks/robot_secuencia.png",
       "prompt": "Transparent pixel-art sprite sheet exactly nine equal columns one row of an original turquoise alien explorer with orange backpack and two short antennae. Nine walk and idle poses, full bodies same scale baseline with clear gaps. No text, no environment.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/junks/dude_1.png",
+      "dest": "orbita_de_cobre/assets/junks/robot_pose.png",
       "prompt": "Single original turquoise alien explorer, orange backpack, two short antennae, front-facing idle pose, full body centered on transparent canvas. Crisp simple pixel art for small 2D game, no text or environment.",
       "transparent": true
     },
     {
-      "dest": "orbita_de_cobre/assets/junks/player1.png",
+      "dest": "orbita_de_cobre/assets/junks/explorador_secuencia.png",
       "prompt": "Transparent pixel art sprite sheet four equal columns in one row: original orange moon fox with cream muzzle and teal boots leaping right in four poses. Full bodies same scale baseline, no overlap, no text. Original character, not a known franchise.",
       "transparent": true
     },
@@ -180,8 +180,8 @@
       "revision": 2
     },
     {
-      "dest": "orbita_de_cobre/assets/game/fondo.png",
-      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/orbita_de_cobre/assets/game/fondo.png",
+      "dest": "orbita_de_cobre/assets/game/plataforma_cobre.png",
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/orbita_de_cobre/assets/game/plataforma_cobre.png",
       "prompt": "Fix the placement of the platform. REMOVE the bridge currently crossing the top of the sky completely. Put a single horizontal copper metal ground platform at the very BOTTOM of the image, with the top walkable edge 92% down from the top. The metal side fills the bottom 8%. All landscape and sky ABOVE this platform. Preserve original alien desert illustration style. No other platforms or bridges. No characters or text.",
       "revision": 2
     }
@@ -193,7 +193,7 @@
     "exploracion_iris/iris.png: tres especies y cuatro medidas rotuladas; ilustración orientativa, no validación botánica.",
     "trayectorias_pelotas/1.png: tres pelotas, ocho direcciones y objetivo t+1 correctos.",
     "busqueda_ruta_astar/tabla.png revisión 2: diez pares de costos correctos; ecuación 6×10+3×14=102.",
-    "orbita_de_cobre/assets/game/fondo.png revisión 2: plataforma corregida al borde inferior.",
+    "orbita_de_cobre/assets/game/plataforma_cobre.png revisión 2: plataforma corregida al borde inferior.",
     "trayectorias_pelotas/2.png: 192 y límites de cobertura, ocho direcciones, 16.67 ms y novena acción correctos.",
     "comparativa_clasificadores/1.png, 2.png, 3.png: conexiones de capas, riesgos y comparación conceptual coherentes.",
     "18 recursos visuales del juego: personajes completos, cuatro frames individuales y hojas 4x4, 4x1, 9x1; variantes ilustradas nuevas.",
