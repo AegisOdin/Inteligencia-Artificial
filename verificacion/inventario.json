@@ -1,0 +1,396 @@
+[
+  {
+    "original": "arbol_red_diferencias/1.jpeg",
+    "nuevo": "arbol_red_diferencias/1.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "6ad131243ec7b7983422a01f631c720832fe3ed936032c3859c12720019ed0a8"
+  },
+  {
+    "original": "arbol_red_diferencias/2.jpeg",
+    "nuevo": "arbol_red_diferencias/2.png",
+    "dimensiones": [
+      1024,
+      1536
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "5ea26f4eca46eb05d90f67d73db11e46ce32a9f26457651f9f2564d38473962d"
+  },
+  {
+    "original": "arbol_red_diferencias/3.jpeg",
+    "nuevo": "arbol_red_diferencias/3.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "b96a8fb4c73793820e813444edfa03e357d21db86ee1f441285456f219063947"
+  },
+  {
+    "original": "arbol_red_diferencias/4.jpeg",
+    "nuevo": "arbol_red_diferencias/4.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "ff1d068acbe9c5c22661d980e0db05e3a36892f444cb68573a3f92028683d5c8"
+  },
+  {
+    "original": "arbol_red_diferencias/5.jpeg",
+    "nuevo": "arbol_red_diferencias/5.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "e24b80b937030173362b69429c71539fdaa8985b097bfaa052984634556f9115"
+  },
+  {
+    "original": "arbol_red_diferencias/6.jpeg",
+    "nuevo": "arbol_red_diferencias/6.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "63d681565c454a2bbcf397b923f1c6dd96ed87e470405d6cd440561145638454"
+  },
+  {
+    "original": "arbol_red_diferencias/7.jpeg",
+    "nuevo": "arbol_red_diferencias/7.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "f574d00ef707da79a2de1bea85e61ec219c83311b4c3e7bfd443436ea442bf7e"
+  },
+  {
+    "original": "dataset_excel/iris.jpg",
+    "nuevo": "dataset_excel/iris.png",
+    "dimensiones": [
+      1024,
+      1536
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "6378c28c520181a54d157c7f6802d18799f7c547c665c3882a6ae0267c0c608a"
+  },
+  {
+    "original": "dataset_pelotas_rebotantes/1.jpeg",
+    "nuevo": "dataset_pelotas_rebotantes/1.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "16c3032ec59017f52cadc93aee8ee87be36d935669b5dfcf07d5917bf99da0a8"
+  },
+  {
+    "original": "dataset_pelotas_rebotantes/2.jpeg",
+    "nuevo": "dataset_pelotas_rebotantes/2.png",
+    "dimensiones": [
+      1024,
+      1536
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "70c7d5b3d84586652e2006d95e99b77c24002a4a54815ed8850c7c5648f65f12"
+  },
+  {
+    "original": "evaluacion_a_aterisco/datos.jpeg",
+    "nuevo": "evaluacion_a_aterisco/datos.png",
+    "dimensiones": [
+      1222,
+      1287
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "f22ba0fa3c4dc8218b2c5e80d3c3d325867d9396abdb3bc3f3697e4a34ef02e8"
+  },
+  {
+    "original": "evaluacion_a_aterisco/tabla.jpeg",
+    "nuevo": "evaluacion_a_aterisco/tabla.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "2ea0ccd7c92650fa6bd70f14fd4e23b14463452b2d04792c66898896cb78495f"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/game/fondo.jpg",
+    "nuevo": "juego_modificado_arbol/assets/game/fondo_alternativo.png",
+    "dimensiones": [
+      1672,
+      941
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "d47887c4cfa2587ffc841434bf4e47318c0669045b4854105eeafae4b910c500"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/game/fondo.png",
+    "nuevo": "juego_modificado_arbol/assets/game/fondo.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "20bd17bcb9d17132178721260d203818e15cca99b2f57e7480c852de252b3c5e"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/game/fondo2.png",
+    "nuevo": "juego_modificado_arbol/assets/game/fondo2.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "4f0960de0f3439d6a2f2022cc5ce3d7b8c3b34837f0054e11c084877291863f7"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/game/menu.png",
+    "nuevo": "juego_modificado_arbol/assets/game/menu.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "7a585ecb820ff41b99371b57587fa65153181dbf25b359e629a4cb1afeeffce4"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/game/ufo.png",
+    "nuevo": "juego_modificado_arbol/assets/game/ufo.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      255
+    ],
+    "sha256": "b57590ae7cac2b5405afea1c1307af8e9fa88e5535463725b390b1da002a4605"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/junks/cannon.png",
+    "nuevo": "juego_modificado_arbol/assets/junks/cannon.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      254
+    ],
+    "sha256": "41d3d91220fbe1af5ec0164c0f41734e28f5467473845329fac413bbd7205144"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/junks/dude.png",
+    "nuevo": "juego_modificado_arbol/assets/junks/dude.png",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      255
+    ],
+    "sha256": "434b04287808b470db779a3372e1a4464437560faca8e47dec780622aa846113"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/junks/dude_1.png",
+    "nuevo": "juego_modificado_arbol/assets/junks/dude_1.png",
+    "dimensiones": [
+      1024,
+      1536
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      254
+    ],
+    "sha256": "c30e4a1dbf4cf492cb5fb8315b8e335d2af448239c16471e5a0f06d6ea314eba"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/junks/player1.png",
+    "nuevo": "juego_modificado_arbol/assets/junks/player1.png",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      255
+    ],
+    "sha256": "954be2910aedb365a246f3157dfc1e4532eadff19a131cc5444ce993366a0b0f"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/sprites/altair.png",
+    "nuevo": "juego_modificado_arbol/assets/sprites/altair.png",
+    "dimensiones": [
+      1268,
+      1240
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      255
+    ],
+    "sha256": "1fa811943822de657c1b7f63334f7f257f4021ef58e9d3533181bf089dd8f872"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/sprites/altair2.png",
+    "nuevo": "juego_modificado_arbol/assets/sprites/altair2.png",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      255
+    ],
+    "sha256": "bcf1269126fcdf0df96a64510910817fbea8f4121269e198ed13ea3efafec935"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/sprites/mono_frame_1.png",
+    "nuevo": "juego_modificado_arbol/assets/sprites/mono_frame_1.png",
+    "dimensiones": [
+      1024,
+      1536
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      254
+    ],
+    "sha256": "1a334a600305c86aab12a13403d30b8df5d31e58995c5568f48302a8c2ab35e4"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/sprites/mono_frame_2.png",
+    "nuevo": "juego_modificado_arbol/assets/sprites/mono_frame_2.png",
+    "dimensiones": [
+      1024,
+      1536
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      254
+    ],
+    "sha256": "446711dbb2bf75cacd805f402009ff0a408f758eb1aa6645a26a67066af5e6f0"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/sprites/mono_frame_3.png",
+    "nuevo": "juego_modificado_arbol/assets/sprites/mono_frame_3.png",
+    "dimensiones": [
+      1024,
+      1536
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      254
+    ],
+    "sha256": "9ccee6bcf93605330feb86de250bd60287d166633b6a3aca64a27cb3473f7b26"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/sprites/mono_frame_4.png",
+    "nuevo": "juego_modificado_arbol/assets/sprites/mono_frame_4.png",
+    "dimensiones": [
+      1024,
+      1536
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      254
+    ],
+    "sha256": "02e2885028a936ef2be8b6fabffb1649c882c68590905dabbdcc9ef5f941938d"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/sprites/player.png",
+    "nuevo": "juego_modificado_arbol/assets/sprites/player.png",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      255
+    ],
+    "sha256": "35f3449426ea533659322f44775cefc043f472c68125b1ed9021323564c61671"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/sprites/player1.png",
+    "nuevo": "juego_modificado_arbol/assets/sprites/player1.png",
+    "dimensiones": [
+      2172,
+      724
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      255
+    ],
+    "sha256": "fbf363e390aaed7c4158721e5130c6749eb1799ff8a72ed1f5f2b9ab304c5f0f"
+  },
+  {
+    "original": "juego_modificado_arbol/assets/sprites/purple_ball.png",
+    "nuevo": "juego_modificado_arbol/assets/sprites/purple_ball.png",
+    "dimensiones": [
+      1254,
+      1254
+    ],
+    "modo": "RGBA",
+    "alfa": [
+      0,
+      255
+    ],
+    "sha256": "72c2d37672b28fc6eeeb49e604e19af11215b311255396dbe64bca7f4db9cbdb"
+  },
+  {
+    "original": "kernel_convolucion/1.jpeg",
+    "nuevo": "kernel_convolucion/1.png",
+    "dimensiones": [
+      1536,
+      1024
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "d20dd61f32cd12938afc74f07beaa1d6825a730eeac68f5177bb7279aa4383dd"
+  },
+  {
+    "original": "matrices.jpeg",
+    "nuevo": "matrices.png",
+    "dimensiones": [
+      1774,
+      887
+    ],
+    "modo": "RGB",
+    "alfa": null,
+    "sha256": "2927b33c962d61c6724e8fdb546f1d8511f855227c9e63bba74bda8f4aed6afe"
+  }
+]

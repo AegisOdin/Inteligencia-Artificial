@@ -1,0 +1,203 @@
+{
+  "herramienta": "image_gen integrada",
+  "modelo": "La herramienta no expone el identificador de variante.",
+  "imagenes_finales": 32,
+  "generaciones": 35,
+  "revisiones": [
+    {
+      "dest": "juego_modificado_arbol/assets/game/fondo2.png",
+      "prompt": "Create an original 2D side-scrolling game background, landscape 3:2 ratio. Alien desert observatory at twilight: indigo sky, distant mauve mesas, small luminous cyan crystals, copper metal running platform exactly at 92% of image height. Flat side-on view, crisp illustrated game art, restrained detail, no characters, no text, no UI. Left and right edges must visually tile seamlessly. Platform continuous horizontally. Lower 8% is its structural side. Main playable area clear, visibly distinct from a green forest platform game.",
+      "transparent": false
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/sprites/mono_frame_1.png",
+      "prompt": "Single original tiny game character: friendly copper-orange maintenance robot with a square cyan face screen, short antenna, teal scarf, chunky boots. Strict side view facing right, running animation contact pose, left leg forward right leg back. Entire body centered, fills 85% canvas height. Bold simple pixel-art forms readable at 32x48 pixels, no letters, no floor, no shadow, no accessories beyond described. Transparent background. Portrait 2:3.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/sprites/purple_ball.png",
+      "prompt": "Single glowing amber energy orb projectile for a 2D pixel art game, circular gold shell around cyan core, very simple bold silhouette readable at 16x16 pixels. Centered fills 90% square canvas, no trails, no text, no ground, transparent background.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/game/ufo.png",
+      "prompt": "Single original enemy drone for a side-view 2D pixel-art space game. Copper hexagonal hovering mechanical pod, dark teal panels, cyan central light, short barrel points left. Bold compact silhouette readable at 64x64, centered fills 90% square image, no text, no ground or shadow. Transparent background.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/sprites/mono_frame_2.png",
+      "prompt": "Edit the reference robot into the next running-animation frame: passing pose: knees close together, rear foot lifted. Preserve identical copper-orange robot, cyan rectangular face, teal scarf, pixel style, facing right, camera, proportions and canvas size. Full body at same scale and baseline. Remove any glow outside silhouette; transparent background. No floor, no text.",
+      "transparent": true,
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/juego_modificado_arbol/assets/sprites/mono_frame_1.png"
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/sprites/mono_frame_3.png",
+      "prompt": "Edit the reference robot into the next running-animation frame: opposite contact pose: right leg forward and left leg back. Preserve identical copper-orange robot, cyan rectangular face, teal scarf, pixel style, facing right, camera, proportions and canvas size. Full body at same scale and baseline. Remove any glow outside silhouette; transparent background. No floor, no text.",
+      "transparent": true,
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/juego_modificado_arbol/assets/sprites/mono_frame_1.png"
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/sprites/mono_frame_4.png",
+      "prompt": "Edit the reference robot into the next running-animation frame: opposite passing pose: weight over other leg, front knee lifted. Preserve identical copper-orange robot, cyan rectangular face, teal scarf, pixel style, facing right, camera, proportions and canvas size. Full body at same scale and baseline. Remove any glow outside silhouette; transparent background. No floor, no text.",
+      "transparent": true,
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/juego_modificado_arbol/assets/sprites/mono_frame_1.png"
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/game/fondo.png",
+      "prompt": "Square 2D game background: alien copper desert at dawn, geometric terraced mesas and cyan crystals, indigo sky, side view, continuous metal platform at 92% height. No people, no text. Original pixel-inspired illustrated style.",
+      "transparent": false
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/game/fondo_alternativo.png",
+      "prompt": "Wide 16:9 minimalist 2D background for space exploration game. Layered violet desert silhouettes, huge pale orange moon, dark indigo sky with few stars. No floor foreground, no characters, no text.",
+      "transparent": false
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/game/menu.png",
+      "prompt": "Landscape 3:2 game menu illustration. Dark indigo copper observatory console border, center spacious dark panels stacked vertically. EXACT text top panel 'MANUAL' bottom panel 'AUTOMÁTICO'. Restrained cyan and orange highlights, clear readable lettering, original sci-fi game art.",
+      "transparent": false
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/sprites/altair.png",
+      "prompt": "Transparent game sprite sheet, exactly 4 columns by 4 rows equal cells, same small copper orange robot with cyan face and teal scarf. Row1 faces front, row2 faces left, row3 faces right, row4 faces back. Four walking poses per row. Full bodies with consistent scale and baseline, clear gaps, no labels or background. Original pixel art.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/sprites/altair2.png",
+      "prompt": "Transparent sprite sheet exactly 4 equal columns, one row, same copper robot cyan face teal scarf walking right in four phases. Clean pixel art, full body, identical scale and baseline, isolated separated cells, no labels.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/sprites/player.png",
+      "prompt": "Transparent 2D sprite sheet four equal columns one row. Original little turquoise alien explorer wearing orange backpack, large round head two short antennae, four walking poses facing right, full body, simple crisp pixel art. Same scale baseline, clear gap, no text.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/sprites/player1.png",
+      "prompt": "Transparent 2D sprite sheet exactly four equal columns one row: original cream and orange moon fox in teal boots running right, four phases. No resemblance to existing game characters. Entire bodies same scale and baseline, clear gaps, crisp pixel art, no text.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/junks/cannon.png",
+      "prompt": "Single side-view copper and teal wheeled energy cannon facing left, cyan barrel opening, dark orange wheels, original pixel art game object, full object centered on transparent background. No text.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/junks/dude.png",
+      "prompt": "Transparent pixel-art sprite sheet exactly nine equal columns one row of an original turquoise alien explorer with orange backpack and two short antennae. Nine walk and idle poses, full bodies same scale baseline with clear gaps. No text, no environment.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/junks/dude_1.png",
+      "prompt": "Single original turquoise alien explorer, orange backpack, two short antennae, front-facing idle pose, full body centered on transparent canvas. Crisp simple pixel art for small 2D game, no text or environment.",
+      "transparent": true
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/junks/player1.png",
+      "prompt": "Transparent pixel art sprite sheet four equal columns in one row: original orange moon fox with cream muzzle and teal boots leaping right in four poses. Full bodies same scale baseline, no overlap, no text. Original character, not a known franchise.",
+      "transparent": true
+    },
+    {
+      "dest": "matrices.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Índices de una matriz'. One grid exactly 3 rows and 8 columns. Label rows on left 0,1,2 and columns above 0,1,2,3,4,5,6,7. Left bracket '3 filas'; bottom bracket '8 columnas'. Highlight row 1 column 7 in copper, label '(fila 1, columna 7)'. This is an index diagram, no maze obstacles.",
+      "transparent": false
+    },
+    {
+      "dest": "kernel_convolucion/1.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Kernel de vecinos · cálculo verificado'. Three labeled matrices. 'Entrada' exactly rows: [6,18,21,180,18]; [60,40,13,20,21]; [70,71,68,41,15]; [14,16,117,160,160]; [21,211,216,217,150]. 'Kernel' exactly [1,1,1];[1,0,1];[1,1,1]. 'Salida' exactly [118,140,255,93,221];[205,255,255,255,255];[201,255,255,255,255];[255,255,255,255,255];[241,255,255,255,255]. Footer 'Bordes con ceros. Saturación al intervalo [0,255].' Worked example 'Esquina: 18 + 60 + 40 = 118'. All matrices with precise cell boundaries.",
+      "transparent": false
+    },
+    {
+      "dest": "evaluacion_a_aterisco/datos.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'A*: ruta óptima de costo 102'. Main grid exactly 7 rows 9 columns numbered row-major: row1 1 2 3 4 5 6 7 8 9; row2 10 11 12 13 14 15 16 17 18; row3 19 20 21 22 23 24 25 26 27; row4 28 29 30 31 32 33 34 35 36; row5 37 38 39 40 41 42 43 44 45; row6 46 47 48 49 50 51 52 53 54; row7 55 56 57 58 59 60 61 62 63. Fill ONLY walls 12,16,21,25,30,34,39,40,41,42,43 dark navy. Start5 green and goal59 copper. Draw connected orange route precisely through cell centers 5,6,7,17,26,35,44,52,60,59. All other cells white with legible numbers. Footer 'Ortogonal: 10 · Diagonal: 14 · Se permite pasar junto a esquinas'. No other arrows.",
+      "transparent": false
+    },
+    {
+      "dest": "evaluacion_a_aterisco/tabla.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Verificación del recorrido A*'. Table headers 'Casilla', 'Costo acumulado'. Exactly rows: 5 | 0; 6 | 10; 7 | 20; 17 | 34; 26 | 44; 35 | 54; 44 | 64; 52 | 78; 60 | 92; 59 | 102. Large conclusion '6 pasos ortogonales + 3 diagonales = 102'. Small note 'Dijkstra confirma el costo mínimo. Puede haber otras rutas óptimas.' No fictitious open or closed lists.",
+      "transparent": false
+    },
+    {
+      "dest": "dataset_excel/iris.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Iris: tres especies, cuatro medidas'. Original botanical educational illustration, three distinct panels labeled exactly 'Iris setosa', 'Iris versicolor', 'Iris virginica'. Show botanical flowers with setosa narrow purple petals, versicolor purple with white veining, virginica pale lavender broad falls. Bottom small schematic flower with four arrows labelled 'Longitud del sépalo', 'Ancho del sépalo', 'Longitud del pétalo', 'Ancho del pétalo'. Footer 'Ilustración orientativa; el dataset contiene medidas en centímetros.' Do not imply measured specimens.",
+      "transparent": false
+    },
+    {
+      "dest": "dataset_pelotas_rebotantes/1.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Esquivar pelotas: estado y objetivo'. A square arena with a copper robot at center and three teal balls around it, directional velocity arrows away from balls, no collisions shown. Adjacent short list 'Entradas en t: posición, velocidad, radio y acción'. Small pipeline 'Estado + acción → ¿Colisión en t+1?'. Bottom 'De 1 a 3 pelotas · 8 direcciones de movimiento'. Technical schematic, no invented scores.",
+      "transparent": false
+    },
+    {
+      "dest": "dataset_pelotas_rebotantes/2.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Cobertura no es tamaño suficiente'. Big equation '3 × 8 × 8 = 192'. Under factors exact labels 'cantidades de pelotas', 'acciones', 'direcciones de una pelota'. Notice 'Cruce simplificado: faltan posiciones, velocidades y rebotes'. Three steps 'Registrar por frame', 'Separar por partida', 'Evaluar colisiones y supervivencia'. Footer 'A 60 Hz: Δt ≈ 16.67 ms. Quedarse quieto añade una novena acción.'",
+      "transparent": false
+    },
+    {
+      "dest": "arbol_red_diferencias/1.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'MLP: transformar para aprender'. Diagram exactly three labeled columns 'Entrada', 'Capas ocultas', 'Salida', connected left to right. Three concise points 'Relaciones no lineales', 'Representaciones aprendidas', 'Ajuste mediante gradientes'. Footer 'Las activaciones no lineales permiten ir más allá de una frontera lineal.'",
+      "transparent": false
+    },
+    {
+      "dest": "arbol_red_diferencias/2.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'MLP: costos y decisiones'. Four concise cards 'Escalado de variables', 'Selección de hiperparámetros', 'Riesgo de sobreajuste', 'Interpretación difícil'. Bottom separate section 'Árbol de decisión' with simple root branches leaves schematic and caption 'Reglas organizadas desde la raíz hasta las hojas'. No mathematical results or metrics.",
+      "transparent": false
+    },
+    {
+      "dest": "arbol_red_diferencias/3.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Árbol: ventajas y límites'. Two columns. 'Ventajas': 'Ruta explicable', 'Poco preprocesamiento', 'Predicción rápida', 'Relaciones no lineales'. 'Límites': 'Sobreajuste', 'Alta varianza', 'Divisiones voraces', 'Fronteras fragmentadas'. Footer 'Controlar profundidad y tamaño de las hojas; evaluar con datos nuevos.'",
+      "transparent": false
+    },
+    {
+      "dest": "arbol_red_diferencias/4.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Dos formas de representar una decisión'. Left labelled 'MLP' exact formula 'h = activación(Wx + b)' and caption 'Combina transformaciones; ajusta pesos y sesgos'. Right labelled 'Árbol' exact condition 'x_j ≤ t' and caption 'Divide el espacio; aprende variables y umbrales'. Simple branch diagram underneath right. Footer 'Ambos pueden modelar relaciones no lineales.'",
+      "transparent": false
+    },
+    {
+      "dest": "arbol_red_diferencias/5.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'De la entrada a la predicción'. Three-row comparison table headers 'Etapa', 'MLP', 'Árbol'. Rows: 'Entrada' | 'Vector de características' | 'Variables para reglas'; 'Proceso' | 'Transformaciones por capas' | 'Comparaciones en nodos'; 'Predicción' | 'Propagación hasta la salida' | 'Una ruta hasta una hoja'. Keep text legible large, no other prose.",
+      "transparent": false
+    },
+    {
+      "dest": "arbol_red_diferencias/6.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Cómo se ajusta cada modelo'. Two process columns. 'MLP': 'Predecir → Calcular pérdida → Retropropagar gradientes → Actualizar parámetros'. 'Árbol': 'Evaluar divisiones → Reducir impureza → Crear nodos → Limitar crecimiento'. Footer 'La red suele repetir épocas; el árbol construye particiones progresivas.'",
+      "transparent": false
+    },
+    {
+      "dest": "arbol_red_diferencias/7.png",
+      "prompt": "Create a polished Spanish educational infographic, landscape or portrait as content requires, white background, navy text, teal and copper accents, crisp large typography, generous whitespace, printed digital diagram (not handwriting or a notebook photo). No author name, no date. Render every specified number and label exactly. Title 'Características y resultado'. Two columns 'MLP' and 'Árbol'. MLP text 'Combina varias entradas en cada neurona' and 'La capa final produce la predicción'. Árbol text 'Cada nodo suele evaluar una variable' and 'La hoja entrega clase o probabilidades'. Bottom emphasis 'Comparar sobre la misma prueba. Probabilidad no implica calibración.'",
+      "transparent": false
+    },
+    {
+      "dest": "evaluacion_a_aterisco/datos.png",
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/evaluacion_a_aterisco/datos.png",
+      "prompt": "Correct this exact A* diagram. Preserve the existing 7x9 grid, wall cells and heading. REMOVE ALL orange route lines and circles entirely. Instead fill path cells 6,7,17,26,35,44,52,60 pale peach. Keep start5 green and goal59 copper. EVERY cell must display its correct row-major number, including 7,16,26,35,44,52,60 currently obscured. Row1 must read 1 2 3 4 5 6 7 8 9; row2 10 11 12 13 14 15 16 17 18; row3 19 20 21 22 23 24 25 26 27; row4 28 29 30 31 32 33 34 35 36; row5 37 38 39 40 41 42 43 44 45; row6 46 47 48 49 50 51 52 53 54; row7 55 56 57 58 59 60 61 62 63. Walls 12,16,21,25,30,34,39,40,41,42,43 stay dark with white numbers. Add a separate plain caption below grid 'Ruta: 5 → 6 → 7 → 17 → 26 → 35 → 44 → 52 → 60 → 59'. DO NOT draw a path line inside the grid. Highlighting cells alone is the path.",
+      "revision": 2
+    },
+    {
+      "dest": "evaluacion_a_aterisco/tabla.png",
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/evaluacion_a_aterisco/tabla.png",
+      "prompt": "Correct this infographic by deleting the ENTIRE incorrect maze illustration on the left. The final image must contain ONLY the title, one centered two-column table, and a footer. No maze, no grid of node locations, no path arrows. Title 'Verificación del recorrido A*'. Table headers 'Casilla' and 'Costo acumulado'. Exactly 10 data rows: 5|0, 6|10, 7|20, 17|34, 26|44, 35|54, 44|64, 52|78, 60|92, 59|102. Footer exact mathematical equation '6 × 10 + 3 × 14 = 102'. Small note 'Dijkstra confirma el costo mínimo. Puede haber otras rutas óptimas.' White background navy typography teal and copper accents.",
+      "revision": 2
+    },
+    {
+      "dest": "juego_modificado_arbol/assets/game/fondo.png",
+      "ref": "C:/Users/Odín/Documents/GitHub/Inteligencia-Artificial/juego_modificado_arbol/assets/game/fondo.png",
+      "prompt": "Fix the placement of the platform. REMOVE the bridge currently crossing the top of the sky completely. Put a single horizontal copper metal ground platform at the very BOTTOM of the image, with the top walkable edge 92% down from the top. The metal side fills the bottom 8%. All landscape and sky ABOVE this platform. Preserve original alien desert illustration style. No other platforms or bridges. No characters or text.",
+      "revision": 2
+    }
+  ],
+  "revision_visual": [
+    "matrices.png: 3x8, índices 0..2 y 0..7, selección (1,7) correcta.",
+    "kernel_convolucion/1.png: 25 entradas, 9 coeficientes y 25 salidas revisados visualmente; coinciden con calculo.py.",
+    "evaluacion_a_aterisco/datos.png revisión 2: 63 números, 11 muros y 10 casillas de ruta correctos; no atraviesa muro.",
+    "dataset_excel/iris.png: tres especies y cuatro medidas rotuladas; ilustración orientativa, no validación botánica.",
+    "dataset_pelotas_rebotantes/1.png: tres pelotas, ocho direcciones y objetivo t+1 correctos.",
+    "evaluacion_a_aterisco/tabla.png revisión 2: diez pares de costos correctos; ecuación 6×10+3×14=102.",
+    "juego_modificado_arbol/assets/game/fondo.png revisión 2: plataforma corregida al borde inferior.",
+    "dataset_pelotas_rebotantes/2.png: 192 y límites de cobertura, ocho direcciones, 16.67 ms y novena acción correctos.",
+    "arbol_red_diferencias/1.png, 2.png, 3.png: conexiones de capas, riesgos y comparación conceptual coherentes.",
+    "18 recursos visuales del juego: personajes completos, cuatro frames individuales y hojas 4x4, 4x1, 9x1; variantes ilustradas nuevas.",
+    "arbol_red_diferencias/4.png a 7.png: fórmulas, etapas de predicción, gradientes/divisiones y salidas correctas; sin métricas ficticias.",
+    "Capturas juego.png y menu.png: personaje y dron con transparencia, plataforma alineada y fondo alternado sin corte visible."
+  ]
+}

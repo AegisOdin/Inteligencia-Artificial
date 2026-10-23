@@ -1,0 +1,115 @@
+{
+  "nota": "Fechas retrospectivas solicitadas por el propietario; no representan la fecha real de elaboración.",
+  "commits": [
+    {
+      "fecha": "2026-09-04T12:10:00-06:00",
+      "referencia": "2026-09-03T22:25:38-06:00",
+      "mensaje": "Añadir soluciones de búsqueda y ejercicios iniciales",
+      "rutas": [
+        ".gitignore",
+        "ejercicios",
+        "matrices.png"
+      ]
+    },
+    {
+      "fecha": "2026-09-05T10:40:00-06:00",
+      "referencia": "2026-09-03T10:58:48-06:00",
+      "mensaje": "Resolver A* y comprobar el costo de la ruta",
+      "rutas": [
+        "evaluacion_a_aterisco"
+      ]
+    },
+    {
+      "fecha": "2026-09-10T11:20:00-06:00",
+      "referencia": "2026-09-08T13:21:57-06:00",
+      "mensaje": "Analizar las medidas del conjunto Iris",
+      "rutas": [
+        "dataset_excel"
+      ]
+    },
+    {
+      "fecha": "2026-09-16T15:35:00-06:00",
+      "referencia": "2026-09-15T10:52:55-06:00",
+      "mensaje": "Entrenar una red mínima para XOR",
+      "rutas": [
+        "percep_modificado"
+      ]
+    },
+    {
+      "fecha": "2026-09-19T09:15:00-06:00",
+      "referencia": "2026-09-17T10:58:14-06:00",
+      "mensaje": "Definir datasets y evaluación para Dino",
+      "rutas": [
+        "reporte_dino_crash_eda"
+      ]
+    },
+    {
+      "fecha": "2026-10-05T20:10:00-06:00",
+      "referencia": "2026-10-05T19:16:48-06:00",
+      "mensaje": "Crear Órbita de cobre con árbol y recursos originales",
+      "rutas": [
+        "juego_modificado_arbol",
+        "requirements.txt"
+      ]
+    },
+    {
+      "fecha": "2026-10-07T10:25:00-06:00",
+      "referencia": "2026-10-06T22:14:32-06:00",
+      "mensaje": "Comparar árboles y redes multicapa",
+      "rutas": [
+        "arbol_red_diferencias"
+      ]
+    },
+    {
+      "fecha": "2026-10-08T09:30:00-06:00",
+      "referencia": "2026-10-07T14:46:21-06:00",
+      "mensaje": "Responder casos de aplicación de clasificadores",
+      "rutas": [
+        "preguntas_arboles_nodos_multicapa"
+      ]
+    },
+    {
+      "fecha": "2026-10-08T13:45:00-06:00",
+      "referencia": "2026-10-07T16:54:11-06:00",
+      "mensaje": "Diseñar el dataset de pelotas y corregir su cobertura",
+      "rutas": [
+        "dataset_pelotas_rebotantes"
+      ]
+    },
+    {
+      "fecha": "2026-10-10T10:20:00-06:00",
+      "referencia": "2026-10-08T11:01:17-06:00",
+      "mensaje": "Verificar el kernel de convolución y sus resultados",
+      "rutas": [
+        "kernel_convolucion"
+      ]
+    },
+    {
+      "fecha": "2026-10-16T10:05:00-06:00",
+      "referencia": "2026-10-14T10:52:51-06:00",
+      "mensaje": "Preparar captura de rostros con Haar",
+      "rutas": [
+        "haarcascade_dataset"
+      ]
+    },
+    {
+      "fecha": "2026-10-22T11:40:00-06:00",
+      "referencia": "2026-10-21T09:42:06-06:00",
+      "mensaje": "Entrenar y comparar Eigenfaces Fisherfaces y LBPH",
+      "rutas": [
+        "entrenar_eigenfaces",
+        "eigenfaces_fisherfaces_LBPH"
+      ]
+    },
+    {
+      "fecha": "2026-10-23T15:10:00-06:00",
+      "referencia": "2026-10-21T09:54:20-06:00",
+      "mensaje": "Documentar ejercicios recursos y comprobaciones",
+      "rutas": [
+        "README.md",
+        "VERIFICACION.md",
+        "verificacion"
+      ]
+    }
+  ]
+}
